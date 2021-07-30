@@ -1,0 +1,14 @@
+{
+  "name": "Elytra",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/tolba-00/Elixir_Bot",
+  "author": "Tolba",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "fs": "^0.0.1-security",
+    "mongoose": "^5.13.4"
+  }
+}
